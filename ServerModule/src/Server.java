@@ -7,6 +7,7 @@ import java.net.Socket;
 
 /**
  * Created by dongz on 2017/7/12.
+ * Socket练习。客户端通过socket连接到服务器，客户端由用户输入字符串，服务器收到后返回另一字符串。一次连接中可以多次交换数据
  */
 public class Server {
 
